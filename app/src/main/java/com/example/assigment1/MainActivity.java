@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         TaskName.setVisibility(View.GONE);
         TaskDescription=findViewById(R.id.TaskDescription);
         TaskDescription.setVisibility(View.GONE);
-        TaskStatus=findViewById(R.id.taskStatus);
+        TaskStatus=findViewById(R.id.TaskStatus);
         TaskStatus.setVisibility(View.GONE);
         ADD= findViewById(R.id.ADD_Button);
         cancel=findViewById(R.id.cancel);

@@ -23,7 +23,7 @@
 
 
         <TextView
-            android:id="@+id/TaskStatusRow"
+            android:id="@+id/TaskStatus_row"
             android:layout_width="200dp"
             android:layout_height="50dp"
             android:layout_marginBottom="20dp" />
