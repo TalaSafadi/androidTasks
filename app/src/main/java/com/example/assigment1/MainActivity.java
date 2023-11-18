@@ -235,7 +235,7 @@ public class MainActivity extends AppCompatActivity {
 
                          @Override
                          public void onClick(View view) {
-                             Toast.makeText(context, "task"+list.get(position).getTaskName()+" was deleted", Toast.LENGTH_SHORT).show();
+                             Toast.makeText(context, "task "+list.get(position).getTaskName()+" was deleted", Toast.LENGTH_SHORT).show();
 
                            list.remove(list.get(position))  ;
                              Count.setText("You have  "+task.size() + " tasks");
