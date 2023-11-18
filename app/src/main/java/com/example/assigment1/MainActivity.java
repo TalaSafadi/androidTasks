@@ -220,6 +220,7 @@ public class MainActivity extends AppCompatActivity {
                      public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
 
                          list.get(position).setStatus(check.isChecked());
+                         SaveData();
                          if(list.get(position).getStatus().toString().equals("false")){
                              name.setText("Status : Not Done ");
                          }else{
