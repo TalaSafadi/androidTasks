@@ -73,7 +73,7 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginBottom="20dp"
-        android:hint="enter name"
+        android:hint="enter Task Title"
         tools:visibility="visible" />
 
     <TextView

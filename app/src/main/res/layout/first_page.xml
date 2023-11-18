@@ -36,7 +36,7 @@
         android:layout_marginEnd="53dp"
         android:layout_marginBottom="24dp"
         android:fontFamily="serif"
-        android:text="Stay a head of all your tasks "
+        android:text="Stay a head of all your Tasks "
         android:textAlignment="center"
         android:textColor="#FEFEFE"
         android:textSize="16sp"
